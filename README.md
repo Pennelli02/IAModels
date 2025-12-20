@@ -1,4 +1,4 @@
-# Esplorazione Modelli Hugging Face 🤖
+# Esplorazione Modelli Hugging Face 
 
 Una collezione di notebook Jupyter e file py per sperimentare con modelli di visione artificiale e AI multimodale, con focus su rilevamento di deepfake e question answering visivo.
 
